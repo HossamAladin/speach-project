@@ -31,6 +31,7 @@ No modification to wav2vec 2.0 is needed. The ASR model stays frozen.
 | File | Description |
 |---|---|
 | `speach-project.ipynb` | Full Kaggle notebook — data loading, noise generation, model training, evaluation, and all plots |
+| `speech_gui.py` | Standalone Tkinter GUI — load audio, add noise, enhance, transcribe, and visualize waveforms |
 | `report.md` | Project report in Markdown with all results and analysis |
 | `Report.pdf` | Formatted PDF version of the report |
 | `study-guide.md` | Comprehensive study guide covering the paper, the project, all results, and TA discussion prep |
